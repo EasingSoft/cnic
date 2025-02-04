@@ -42,6 +42,6 @@ It is in pattern `ABCDE-XXXXXXX-M`
 - IF M = 0 or 2 or 4 or 6 or 8 Then Resident is `FEMALE`
 
 # How to use ?
-I have created tiny javascript program. So no manuall work needed.
-Put cnic and that tool will find and show details (location and gender) itself.
-Please view: [CNIC Tracker](https://graysuit.github.io/cnic) .
+Put cnic [here](https://graysuit.github.io/cnic) and it will show details (location and gender)
+
+#### Made on Jan 2021
