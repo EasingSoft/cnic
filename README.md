@@ -1,3 +1,8 @@
+## How to use ?
+Visit [graysuit.github.io/cnic](https://graysuit.github.io/cnic)
+
+![image](https://github.com/user-attachments/assets/20414cf9-14c9-4762-9e88-675bdd2c5e80)
+
 # What is CNIC ?
 CNIC is 13 digit long unique identity number alotted to **Pakistani** nationality holder.
 CNIC number looks like below:
@@ -40,8 +45,5 @@ It is in pattern `ABCDE-XXXXXXX-M`
 ### M (Gender)
 - IF M = 1 or 3 or 5 or 7 or 9 Then Resident is `MALE`
 - IF M = 0 or 2 or 4 or 6 or 8 Then Resident is `FEMALE`
-
-# How to use ?
-Put cnic [here](https://graysuit.github.io/cnic) and it will show details (location and gender)
 
 #### Made on Jan 2021
